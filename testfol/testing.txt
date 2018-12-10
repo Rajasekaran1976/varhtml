@@ -1,5 +1,0 @@
-this is raj; first file
-this is atom generated file
-this is the third line
-this is end of test
-multiple lines
