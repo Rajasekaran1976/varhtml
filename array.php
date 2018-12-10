@@ -1,7 +1,5 @@
 <?php
-$link = mysql_connect('localhost', 'raju', 'newnew');
-if (!$link) {
-    die('Could not connect: ' . mysql_error());
-}
-printf("MySQL server version: %s\n", mysql_get_server_info());
+$link   = mysql_connect('localhost', 'raju', 'newnew');
+$status = explode('  ', mysql_stat($link));
+print_r($status);
 ?>
