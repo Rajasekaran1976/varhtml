@@ -1,1 +1,2 @@
 this is a bash text file
+this is sec line for bash
