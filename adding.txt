@@ -1,2 +1,4 @@
-this is a bash text file
-this is sec line for bash
+git add .
+git status
+git commit -m "change4"
+git push origin master
