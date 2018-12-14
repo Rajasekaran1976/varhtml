@@ -1,3 +1,0 @@
-this is beta text
-multiple lines
-from github to local folder
